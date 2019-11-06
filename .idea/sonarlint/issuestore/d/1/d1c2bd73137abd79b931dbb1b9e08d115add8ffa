@@ -1,3 +1,4 @@
 
-€squid:S1450"]Remove the "botonCompartir" field and declare it as a local variable in the relevant methods.(âÌªúÿÿÿÿ8Ü½Öáã-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦ëâ§8ÒÛûçã-
+rsquid:S1450"TRemove the "texto" field and declare it as a local variable in the relevant methods.(Üà˜¿8ˆšã€ä-
+€squid:S1450"]Remove the "botonCompartir" field and declare it as a local variable in the relevant methods.(âÌªúÿÿÿÿ8¡¾á€ä-
+vsquid:S00116"WRename this field "NombreEvento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Å´8´»æ€ä-
