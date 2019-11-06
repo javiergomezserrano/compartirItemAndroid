@@ -25,10 +25,6 @@ public class MainActivity extends AppCompatActivity {
                 String shareSub = "Compartido desde mi dispositivo Android";
                 myIntent.putExtra(Intent.EXTRA_SUBJECT, shareBody);
                 myIntent.putExtra(Intent.EXTRA_TEXT, shareSub);
-                //myIntent.setPackage("com.facebook.katana");
-                //myIntent.setPackage("com.whatsapp");
-                //myIntent.setPackage("com.twitter.android");
-
                 startActivity(Intent.createChooser(myIntent, "Compartir con..."));
 
             }
